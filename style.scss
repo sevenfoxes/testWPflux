@@ -1,0 +1,15 @@
+@import 'normalize';
+@import 'bourbon';
+@import 'neat';
+
+body {
+  background-color: #333;
+  color: white;
+  font-size: 20px;
+  font-family: helvetica;
+}
+
+.container {
+  @include outer-container;
+  background: #555;
+}

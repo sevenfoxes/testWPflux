@@ -1,0 +1,23 @@
+{
+  "name": "testwpflux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Scott Nesham <sanesham@gmail.com> (https://github.com/sevenfoxes)",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^0.21.0",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.2"
+  },
+  "devDependencies": {
+    "node-neat": "^1.7.2",
+    "node-normalize-scss": "^1.0.3",
+    "node-sass": "^3.3.3",
+    "sass-loader": "^3.0.0",
+    "webpack": "^1.12.2"
+  }
+}
